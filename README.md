@@ -93,13 +93,7 @@ ____
   
 ### Data used in the project that couldn't be placed in the GitHub repository
 
-[File with a training sample](https://drive.google.com/file/d/1X_EJEfERiXki0SKtbnCL9JDv49Go14lF/view?usp=sharing)
-
-[Data files from OSRM for trips from the training table](https://drive.google.com/file/d/1ecWjor7Tn3HP7LEAm5a0B_wrIfdcVGwR/view?usp=sharing)
-
-[File with a test sample](https://drive.google.com/file/d/1C2N2mfONpCVrH95xHJjMcueXvvh_-XYN/view?usp=sharing)
-
-[Data files from OSRM for trips from the test table](https://drive.google.com/file/d/1wCoS-yOaKFhd1h7gZ84KL9UwpSvtDoIA/view?usp=sharing)
+[All the data](https://drive.google.com/uc?id=11-ZNNIdcQ7TbT8Y0nsQ3Q0eiYQP__NIW&export=download)
 
 :arrow_up: [up to content](https://github.com/IgorAbalakin/Real_Estate_Agency/blob/main/README.md#Content)
   ____
