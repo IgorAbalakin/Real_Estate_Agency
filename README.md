@@ -60,11 +60,11 @@ ____
  ____
 ### Exploration Data Analysis (EDA)
 
-In this part of the project, you need to perform:
+In this part of the project, we need to perform:
 
-        1. Research data;
-        2. Search for patterns that allow us to formulate preliminary hypotheses about which factors are decisive for the trip duration;
-        3. Creating visualizations that illustrate this study.
+        1. Research data
+        2. Search for patterns that allow us to formulate preliminary hypotheses about which factors are decisive for the trip duration
+        3. Create visualizations that illustrate this study.
 
 :arrow_up: [up to content](https://github.com/IgorAbalakin/Real_Estate_Agency/blob/main/README.md#Content)
  
@@ -78,15 +78,15 @@ ____
 |  PolynomialFeatures | 42,77 %    |   43,68 % |
 |  Ridge | 52,84 %    |   53,80 % |
 |  Lasso | 54,93 %    |   56,00 % |
-|  DecisionTreeRegressor    | 0,82 %     |   8,28% |
+|  DecisionTreeRegressor    | 0,82 %     |   8,02% |
 |       |      |     |
-|  RandomForestRegressor    | 5,35%      |   8,28% |
-|  GradientBoostingRegressor| 3,22%      |   9,90% |
-|  StackingRegressor    | 4,65%      |   7,92% | 
+|  RandomForestRegressor    | 5,41%      |   8,35% |
+|  GradientBoostingRegressor| 2,45%      |   10,31% |
+|  StackingRegressor    | 4,77%      |   8,01% | 
 |       |      |     |
-|  XGBRegressor    | 7,84%      |   10,97% | 
-|  CatBoostRegressor    | 9,02%     |   11,85% | 
-|  LGBMRegressor    | 9,47%      |   12,68% | 
+|  XGBRegressor    | 8,00%      |   11,02% | 
+|  CatBoostRegressor    | 8,93%     |   11,61% | 
+|  LGBMRegressor    | 12,24%      |   13,89% | 
 
 :arrow_up: [up to content](https://github.com/IgorAbalakin/Real_Estate_Agency/blob/main/README.md#Content)
   ____
